@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+
+    <string name="name_here">Name Here</string>
+    <string name="scan">Scan</string>
+    <string name="generate">Generate</string>
+    <string name="favourite">Favourite</string>
+</resources>
